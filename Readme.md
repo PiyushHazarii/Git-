@@ -5,6 +5,3 @@ https://learngitbranching.js.org/?locale=en_US&utm_source=chatgpt.com
 
 Learn through documentation: 
 https://docs.chaicode.com/youtube/chai-aur-git/welcome/
-
-Download Docker-Machine In Any OS:
-https://github.com/docker-archive-public/docker.machine/releases
